@@ -1,4 +1,47 @@
-h1{
-    color: blueviolet;
-    font-size: 50px;
+body{
+    font-family: 'PT Sans', sans-serif;
+    background-color: rgb(36, 35, 35);
+}
+.sone{
+    display: flex;
+}
+.done{
+    width: 90%;
+    font-size: 40px;
+    padding-left: 2%;
+    color: rgb(229, 245, 1);
+}
+.donee{
+    width: 10%;
+    font-size: 20px;
+    padding-top: 3%;
+    padding-right: 3%;
+    color: turquoise;
+}
+.two{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 180px;
+}
+.stwo{
+    display: flex;
+}
+.learn{
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    
+}
+.Subscribe{
+    width: 50%;
+    color: white;
+    font-size:15px;
+    background-color: rgb(36, 35, 35);
+    border: solid rgb(16, 170, 55);
+    margin-left: 950px;
+    margin-right: 750px;
+    margin-bottom:150px;
+    padding-left:20px;
+    
 }
